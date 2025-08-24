@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Build output
+dist/
+build/
+out/
+
+# Misc
+*.tmp
+*.bak
+*.old
+*.orig
